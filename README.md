@@ -37,3 +37,16 @@
 
 После запуска программы производится ввод сообщений с клавиатурыи и их уровень важности.<br/>
 Программа полностью завершается вводом слова "END".
+
+
+<h2>Стуктура проекта</h2>
+
+```project/
+├── src/            # Source files
+│   ├── Logger.cpp  # Implementation of the logging library
+│   ├── main.cpp    # Console application using the library
+├── include/        # Header files
+│   ├── Logger.h    # Interface for the logging library
+├── build/          # Build artifacts (created during compilation)
+├── Makefile        # Build script
+└── README.md       # Project documentation```
