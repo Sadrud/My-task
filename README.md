@@ -9,9 +9,9 @@
 3.  Операционная система Linux/Debian
 
 <h3>  Построение приложения </h3>
-1.  Скачать репозиторий:
+1. Скачать репозиторий:
 
-```git clone https://github.com/Sadrud/My-task```
+```git clone https://github.com/Sadrud/My-task```<br/>
 ```cd My-task```
 
 2. Создать проект с помощью Makefile (исполняемый файл будет находится в папке build)
