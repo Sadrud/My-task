@@ -15,7 +15,7 @@
 
 1. Скачать репозиторий:
 
-```git clone https://github.com/Sadrud/My-task```<br/>
+```git clone git@github.com:Sadrud/My-task.git```<br/>
 ```cd My-task```
 
 2. Создать проект с помощью Makefile (исполняемый файл будет находится в папке build)
