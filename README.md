@@ -7,3 +7,7 @@
 1.  Компилятор GCC с поддержкой C++17<br/>
 2.  Система сборки Make<br/>
 3.  Операционная система Linux/Debian
+
+<h3>  Построение приложения </h3>
+1.  Скачать репозиторий:
+```git clone https://github.com/OkulusDev/Oxygen.git```
