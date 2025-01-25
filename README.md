@@ -11,5 +11,9 @@
 <h3>  Построение приложения </h3>
 1.  Скачать репозиторий:
 
+```git clone https://github.com/Sadrud/My-task```
+```cd My-task```
 
-```git clone https://github.com/OkulusDev/Oxygen.git```
+2. Создать проект с помощью Makefile (исполняемый файл будет находится в папке build)
+
+```make```
