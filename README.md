@@ -41,12 +41,14 @@
 
 <h2>Стуктура проекта</h2>
 
-```project/
-├── src/            # Source files
-│   ├── Logger.cpp  # Implementation of the logging library
-│   ├── main.cpp    # Console application using the library
-├── include/        # Header files
-│   ├── Logger.h    # Interface for the logging library
-├── build/          # Build artifacts (created during compilation)
-├── Makefile        # Build script
-└── README.md       # Project documentation```
+```
+project/
+├── src/            # Исходные файлы
+│   ├── Logger.cpp  # Реализация библиотеки ведения журнала (текстового файла)
+│   ├── main.cpp    # Консольное приложение, использующее библиотеку
+├── include/        # Загаловочные файлы
+│   ├── Logger.h    # Интерфейс библиотеки для ведения журнала (текстового файла)
+├── build/          # Файлы, создаваемые во время сборки
+├── Makefile        # Скрипт построения проекта
+└── README.md       # Документация по проекту
+```
