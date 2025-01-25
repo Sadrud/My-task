@@ -9,6 +9,7 @@
 3.  Операционная система Linux/Debian
 
 <h3>  Построение приложения </h3>
+
 1. Скачать репозиторий:
 
 ```git clone https://github.com/Sadrud/My-task```<br/>
